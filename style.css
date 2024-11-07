@@ -1,0 +1,23 @@
+body{
+	color:green;
+	font-family: Arial;
+	background-color: purple;
+}
+
+p{
+	text-align: left;
+}
+
+h1{
+	text-align: center;
+	color: goldenrod;
+}
+
+.first{
+	text-align: left;
+}
+
+h2{
+	text-align:right;
+	color:yellow;
+}
